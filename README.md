@@ -12,7 +12,7 @@ To get started with CircuitPython, which comes built into your CPX, visit:
 ### Demo Code
 
 The demo code included in this repository is optimized for the
-[Device Simulator Express](https://marketplace.visualstudio.com/items?itemName=ms-python.devicesimulatorexpress) [Visual Studio Code](https://code.visualstudio.com/) extension.
+[Device Simulator Express](https://marketplace.visualstudio.com/items?itemName=ms-python.devicesimulatorexpress&WT.mc_id=python-0000-ninaz) [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=python-0000-ninaz) extension.
 
 The extension allows you to code CircuitPython for your
 CircuitPlayground Express (CPX) by testing and debugging on
@@ -22,7 +22,7 @@ device.
 The serial monitor easily allows you to
 observe device output.
 
-[Download](https://marketplace.visualstudio.com/items?itemName=ms-python.devicesimulatorexpress) the extension to get started.
+[Download](https://marketplace.visualstudio.com/items?itemName=ms-python.devicesimulatorexpress&WT.mc_id=python-0000-ninaz) the extension to get started.
 
 ### Viewing printed output
 
